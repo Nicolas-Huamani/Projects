@@ -2,3 +2,4 @@
 #2da edicion
 library(tidyverse)
 # a aver, a ver 
+library(dplyr)
